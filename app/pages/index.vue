@@ -7,13 +7,13 @@ definePageMeta({
 <template>
   <div class="page-index">
     <TheLogos />
-    <TheExamples />
+    <!-- <TheExamples /> -->
   </div>
 </template>
 
 <style>
 .page-index {
-  padding-top: 60px;
+  margin-top: -60px;
   text-align: center;
 }
 </style>

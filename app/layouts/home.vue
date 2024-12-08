@@ -3,8 +3,8 @@
     <RightTopMenu class="absolute top-4 right-4" />
 
     <slot />
-    <div class="mx-auto mt-5 text-center text-sm opacity-25">
+    <!-- <div class="mx-auto mt-5 text-center text-sm opacity-25">
       [Home Layout]
-    </div>
+    </div> -->
   </main>
 </template>
